@@ -1,0 +1,18 @@
+.heroflex {
+  background-color: #f7f5f9;
+  height: 90vh;
+  width: 98vw;
+  margin: auto;
+  overflow: hidden;
+}
+.halfwidth {
+  width: 36vw;
+}
+.halfwidth1 {
+  width: 54vw;
+}
+
+.mt {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
